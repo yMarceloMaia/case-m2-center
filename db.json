@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ilimitado Fixo brasil",
+      "description": "",
+      "price": 50,
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Ultimate HD",
+      "description": "",
+      "price": 60,
+      "category_id": 2
+    },
+    {
+      "id": 3,
+      "name": "Full HD",
+      "description": "",
+      "price": 70,
+      "category_id": 2
+    },
+    {
+      "id": 4,
+      "name": "100 MEGA",
+      "description": "100 MEGA",
+      "price": 90,
+      "category_id": 3
+    },
+    {
+      "id": 5,
+      "name": "200 MEGA",
+      "description": "200 MEGA",
+      "price": 120,
+      "category_id": 3
+    },
+    {
+      "id": 6,
+      "name": "300 MEGA",
+      "description": "300 MEGA",
+      "price": 150,
+      "category_id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Fixo"
+    },
+    {
+      "id": 2,
+      "name": "TV"
+    },
+    {
+      "id": 3,
+      "name": "Internet"
+    }
+  ]
+}
